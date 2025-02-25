@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    background-color: #BCBABA;
+    font-family: "Poppins", serif;
+}
+.container {
+    width: 380px;
+    margin: 0 auto;
+    height: 100vh;
+    border-radius: 30px;
+    background-color: #fff;
+
+}
+.arrow{
+    width: 35px;
+   margin-left: 30px;
+   margin-top: 30px;
+    color: #1C1C1C;
+}
+.arrow1{
+    margin-left: 30px;
+   margin-top: 15px;
+    color: #1C1C1C;
+    margin-bottom: 12px;
+    font-family: Actor;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30.08px;
+
+
+}
+footer{
+    background-color: #FFFFFF;
+   
+    display: flex;
+    justify-content: space-around;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding: 10px 0px;
+}
+.footer_img4{
+    margin-right: 10px;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #FF6838;
+}
+.footer_img1{
+    width: 25px;
+    height: 25px;
+}
+.footer_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer_div_a{
+    font-family: "ABeeZee", serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21.29px;
+    color: #FF6838;
+
+}
+.katta{
+    margin-left: 20px;
+    margin-bottom: 80px;
+}
+.divcha{
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.divcha_h3{
+    font-family: Actor;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30.08px;
+}
+.divcha_p{
+    font-family: Actor;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 30.08px;
+    color:#1F1F1F;
+}
